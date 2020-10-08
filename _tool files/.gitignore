@@ -1,0 +1,4 @@
+# Keep important files only
+
+GetMainInfo.*
+main.emu
