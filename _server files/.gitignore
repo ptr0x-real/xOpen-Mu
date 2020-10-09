@@ -1,4 +1,7 @@
 # Keep important files only
 
 *.exe
+*.iobj
+*.pdb
+*.ipdb
 *[LlOoGg]*/
